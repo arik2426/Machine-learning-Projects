@@ -1,4 +1,0 @@
-Testing test kmfglkmfg
-
-
-printf("Hello world")
